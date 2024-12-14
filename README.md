@@ -8,14 +8,12 @@
 3. KHAN MUZAFFAR MOHAMMAD SOAIB 
 4. JAMADAR DANISH RASHID 
 
-
 ### Deployment Steps
 Please follow the below steps to run this project.
 <br>
 1. `pip install -r requirements.txt`<br>
 2. `cd frontend`<br>
 3. `streamlit run multiple_disease_prediction.py`<br><br>
-
 
 ### Platform, Libraries and Frameworks used
 1. [Streamlit](https://docs.streamlit.io/library/get-started)
@@ -29,7 +27,6 @@ Please follow the below steps to run this project.
 4. [Liver disease dataset](https://www.kaggle.com/code/harisyammnv/liver-disease-prediction/data)
 5. [Hepatities disease dataset](https://kaggle.com/dataset2)
 6. [Jaundice disease dataset](https://kaggle.com/dataset2)
-   
 
 ### Trailer
 https://github.com/sohammanjrekar/rcoe22-sem5-group2/assets/83022701/b63635ef-3195-4282-9e90-0b05c659fbcc
@@ -42,9 +39,7 @@ https://github.com/sohammanjrekar/rcoe22-sem5-group2/assets/83022701/b63635ef-31
 - [Letter of Acceptance](https://drive.google.com/file/d/1TFkoafPQJmC3_-XekMwk_HUMa7PA89sq/view?usp=sharing)
 - [Certificate of Each Member](https://drive.google.com/file/d/1FVPssNXveIYHfmhjTETgvED6NeNBucPm/view?usp=sharing)
 
-
 ### References
 - [1] Priyanka Sonar, Prof. K. Jaya Malini,” DIABETES PREDICTION USING DIFFERENT MACHINE LEARNING APPROACHES”, 2019 IEEE ,3rd International Conference on Computing Methodologies and Communication (ICCMC) 
 - [2] Archana Singh, Rakesh Kumar, “Heart Disease Prediction Using Machine Learning Algorithms”, 2020 IEEE, International Conference on Electrical and Electronics Engineering (ICE3) 
-- [3] A. Sivasangari, Baddigam Jaya Krishna Reddy, Annamareddy Kiran, P. Ajitha,” Diagnosis of Liver Disease using Machine Learning Models” 2020 Fourth International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC) 
-
+- [3] A. Sivasangari, Baddigam Jaya Krishna Reddy, Annamareddy Kiran, P. Ajitha,” Diagnosis of Liver Disease using Machine Learning Models” 2020 Fourth International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)
